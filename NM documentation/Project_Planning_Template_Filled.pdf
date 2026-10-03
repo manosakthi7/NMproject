@@ -1,0 +1,1154 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 3
+/Kids [ 4 0 R 13 0 R 16 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2+0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 13458
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 45.68504 543.2598 cm
+q
+.121569 .164706 .266667 rg
+BT 1 0 0 1 0 -1 Tm /F2 13 Tf 12 TL (Project Planning Phase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 525.2598 cm
+q
+.121569 .164706 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Project Planning Template \(Product Backlog, Sprint Planning, Stories, Story points\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 236.6929 473.2598 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Team ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 40 cm
+Q
+q
+1 0 0 1 6 19 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 19 cm
+q
+BT 1 0 0 1 0 2 Tm 10 TL /F1 8 Tf 0 0 0 rg (Implement Client Script & UI Policy \(Incident\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 119.3858 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5 Marks) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.6 w
+n 0 48 m 368.5039 48 l S
+n 0 0 m 368.5039 0 l S
+n 0 0 m 0 48 l S
+n 368.5039 0 m 368.5039 48 l S
+n 0 32 m 368.5039 32 l S
+n 0 16 m 368.5039 16 l S
+n 113.3858 0 m 113.3858 48 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.68504 465.2598 cm
+Q
+q
+1 0 0 1 45.68504 447.2598 cm
+q
+.121569 .164706 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F2 9.5 Tf 12 TL (Product Backlog, Sprint Schedule, and Estimation \(4 Marks\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 432.2598 cm
+q
+.121569 .164706 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 8.5 Tf 11 TL (Use the below template to create product backlog and sprint schedule) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.68504 428.2598 cm
+Q
+q
+1 0 0 1 45.35433 40.25984 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 376 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Sprint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 366 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F2 8 Tf 10 TL (Functional Requirement) Tj T* (\(Epic\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 366 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F2 8 Tf 10 TL (User Story) Tj T* (Number) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 376 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (User Story / Task) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 366 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F2 8 Tf 10 TL (Story) Tj T* (Points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 376 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Priority) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 376 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 8 Tf 10 TL (Team Members) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 352 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 352 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (UI Policy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 352 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 342 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As an admin, I can create a UI Policy named High Impact Control on the Incident table) Tj T* (\(Active = true\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 352 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 352 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 362 cm
+Q
+q
+1 0 0 1 6 328 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 338 cm
+Q
+q
+1 0 0 1 176.0787 328 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 318 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As an admin, I can set the policy condition Impact is 1 - High so it triggers only for high) Tj T* (impact incidents.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 328 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 328 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 338 cm
+Q
+q
+1 0 0 1 6 304 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 314 cm
+Q
+q
+1 0 0 1 176.0787 304 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 294 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As an admin, I can add a UI Policy Action that makes Assignment group mandatory, with) Tj T* (Reverse if false enabled.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 304 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 304 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 314 cm
+Q
+q
+1 0 0 1 6 280 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 290 cm
+Q
+q
+1 0 0 1 176.0787 280 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 270 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As an admin, I can add a UI Policy Action that makes Urgency read-only while leaving) Tj T* (Visible unchanged.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 280 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 280 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 290 cm
+Q
+q
+1 0 0 1 6 256 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 266 cm
+Q
+q
+1 0 0 1 176.0787 256 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 246 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As an admin, I can verify that the UI Policy actions apply when Impact = High and revert) Tj T* (when Impact changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 256 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 256 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 266 cm
+Q
+q
+1 0 0 1 6 232 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 232 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (onChange Client Script) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 232 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 222 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As an admin, I can create an onChange Client Script on the Impact field of the Incident) Tj T* (table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 232 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 232 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 242 cm
+Q
+q
+1 0 0 1 6 208 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 218 cm
+Q
+q
+1 0 0 1 176.0787 208 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a user, when I set Impact to High, Urgency is set to High automatically and an info) Tj T* (message is shown.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 208 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 208 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 218 cm
+Q
+q
+1 0 0 1 6 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (onSubmit Client Script) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL -0.079984 Tw (As an admin, I can create an onSubmit Client Script on the Incident table \(Prevent save if) Tj T* 0 Tw (Assigned To missing\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 194 cm
+Q
+q
+1 0 0 1 6 160 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 170 cm
+Q
+q
+1 0 0 1 176.0787 160 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 150 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a user, I am blocked from saving a High impact incident when Assigned To is empty) Tj T* (and see an error message on the field.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 160 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 160 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 170 cm
+Q
+q
+1 0 0 1 6 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 146 cm
+Q
+q
+1 0 0 1 176.0787 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (As a user, I can save the incident once Assigned To is filled in.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 146 cm
+Q
+q
+1 0 0 1 6 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (onCellEdit Client Script) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As an admin, I can create an onCellEdit Client Script on the State field of the Incident) Tj T* (table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 122 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 132 cm
+Q
+q
+1 0 0 1 6 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 108 cm
+Q
+q
+1 0 0 1 176.0787 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a user, I see an alert and the change is cancelled when I try to edit State directly from) Tj T* (the list.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 108 cm
+Q
+q
+1 0 0 1 6 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 84 cm
+Q
+q
+1 0 0 1 176.0787 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (As a user, I can still change State from the Incident form and save it successfully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 74 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 84 cm
+Q
+q
+1 0 0 1 6 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Testing the Configuration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.0787 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-14) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 50 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a tester, I can test mandatory enforcement: Impact = High with Assigned To empty is) Tj T* (not saved.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 70 cm
+Q
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 46 cm
+Q
+q
+1 0 0 1 176.0787 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-15) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 26 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a tester, I can test a successful save with Assigned To filled and confirm Urgency and) Tj T* (read-only behavior.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 46 cm
+Q
+q
+1 0 0 1 6 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (Sprint-3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 22 cm
+Q
+q
+1 0 0 1 176.0787 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (USN-16) Tj T* ET
+Q
+Q
+q
+1 0 0 1 238.4409 2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 8 Tf 10 TL (As a tester, I can test the reverse condition: changing Impact from High to Medium) Tj T* (removes the mandatory and read-only rules.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 564.4252 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 615.4488 12 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 8 Tf 10 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 666.4724 22 cm
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.5 w
+n 0 388 m 751.1811 388 l S
+n 0 0 m 0 388 l S
+n 751.1811 0 m 751.1811 388 l S
+n 0 0 m 751.1811 0 l S
+n 0 364 m 751.1811 364 l S
+n 0 340 m 751.1811 340 l S
+n 0 316 m 751.1811 316 l S
+n 0 292 m 751.1811 292 l S
+n 0 268 m 751.1811 268 l S
+n 0 244 m 751.1811 244 l S
+n 0 220 m 751.1811 220 l S
+n 0 196 m 751.1811 196 l S
+n 0 172 m 751.1811 172 l S
+n 0 148 m 751.1811 148 l S
+n 0 134 m 751.1811 134 l S
+n 0 110 m 751.1811 110 l S
+n 0 86 m 751.1811 86 l S
+n 0 72 m 751.1811 72 l S
+n 0 48 m 751.1811 48 l S
+n 0 24 m 751.1811 24 l S
+n 51.02362 0 m 51.02362 388 l S
+n 170.0787 0 m 170.0787 388 l S
+n 232.4409 0 m 232.4409 388 l S
+n 558.4252 0 m 558.4252 388 l S
+n 609.4488 0 m 609.4488 388 l S
+n 660.4724 0 m 660.4724 388 l S
+Q
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 841.8898 595.2756 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+1 1 1 RG
+n
+351.4 506.5756 251.8 13.4 re
+f*
+0 0 0 rg
+BT
+1 0 0 1 355.6 510.0356 Tm
+/F2+0 8 Tf
+9.6 TL
+(SWTID\0552026\0555404) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /AAAAAA+Carlito-Regular
+/FirstChar 0
+/FontDescriptor 10 0 R
+/LastChar 127
+/Name /F2+0
+/Subtype /TrueType
+/ToUnicode 12 0 R
+/Type /Font
+/Widths [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226.0742 325.6836 400.8789 498.0469 506.8359 714.8438 682.1289 220.7031 303.2227 303.2227 498.0469 498.0469 249.5117 306.1523 252.4414 386.2305 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 506.8359 267.5781 267.5781 498.0469 498.0469 498.0469 463.3789 894.043 578.6133 543.9453 533.2031 615.2344 488.2812 459.4727 630.8594 623.0469 251.9531 318.8477 519.5312 420.4102 854.9805 645.5078 662.1094 516.6016 672.8516 542.9688 459.4727 487.3047 641.6016 567.3828 889.6484 519.043 487.3047 468.2617 306.6406 386.2305 306.6406 498.0469 498.0469 291.0156 479.0039 525.3906 422.8516 525.3906 497.5586 305.1758 470.7031 525.3906 229.4922 239.2578 454.5898 229.4922 798.8281 525.3906 527.3438 525.3906 525.3906 348.6328 391.1133 334.9609 525.3906 451.6602 714.8438 433.1055 452.6367 395.0195 314.4531 460.4492 314.4531 498.0469 506.8359 ]
+>>
+endobj
+10 0 obj
+<<
+/Ascent 750
+/CapHeight 641.6016
+/Descent -250
+/Flags 4
+/FontBBox [ -489.2578 -258.3008 1147.949 1014.648 ]
+/FontFile2 11 0 R
+/FontName /AAAAAA+Carlito-Regular
+/ItalicAngle 0
+/MissingWidth 506.8359
+/StemV 87
+/Type /FontDescriptor
+>>
+endobj
+11 0 obj
+<<
+/Filter [ /FlateDecode ]
+/Length1 20884
+/Length 13618
+>>
+stream
+xœ­|x\W•ğ½¯L/zÓ«43OS¤)i4ugT-YV³­q‘Õ,Ë]q‰í$ÆN±q”Ä±±SIˆ’Hâ„dl`—°„À†ü@%aó±ÀÂB?%‘Fÿ¹ïŠ°»ÿJzsï{ï–sÎ=ıŞÂ!5:†hÔ³º¿¬b»óß)xò#¸†ÇvLÉïV¬C×Ãe»v¿Ë›Ã¯ DÀûê‰©­»Ş¾¹îáRØºóğ„o†ùÈ T_=¹ed\ÉìA¨ú£ªIx ú9†;öÃ}ñä®ı‡Níğ= ÷÷ÂøOíÜ36â>mG¨³Şÿ`×È¡)ªJµ¡.Ü»vìÚ²ÿO¾÷0sajÏ¾ıó €§çwäıÔŞ-S÷ª­F¨· îoD4cÁ§‹{ƒ
+Å’ş:A¤´,EQM1ï"j¾ızÊáBû÷t¡$B¹y	Ê!ü5é§(Ÿá‡È;úÖCf#u„J’`…P;&<ûÿù¥`-€Z‚¤Hğ(ÆW#Ò¢Ä!Ò#2"2#²"²#r¢BTP¹‘ñ¨y‘ùQ • RD!FT†¢¨U ªDqT…¨Õ ZT‡êQjDM€ó
+”BiÔŒZP+jCí¨­D¨­Bİh5êA½¨õ£´­EëĞ Ê õhÚˆ6¡!´£«ı<‡n%¡ûqú ëEé§æ~È–Ï ÷ïÎ{˜ÜgQ(ëgqÈ5îÊ¾Ü“e|ë³LË†A7ï¶Oº²==ƒîl2cwe«I­:“qe•-#ãÙ ¹U¶¸²QR‰’/÷º&\ÓÓ#®¬¢gp¸È;©U‘ZÕ°}8“ÉØ³(˜ÉğYÔ3¸%“	g©Æa¼# ›îÌ²|*+áSv·;“ÅÃá,â×ø;šr‘7”˜*uC5íšvMÃp3QÖ;İ;8ÜcéËòx—ì„v}~ªp–	e¥éàXğôp*œeá–Oñ®,âS#Yjt"‹Ç`Â,SÎJB.Õ2öƒF]d„lr8Cš7PIÅ(ÈÏÈï°«eš!TFvB˜¬ËÓ/ÌŸ¥½üH³ØYšaÙ–,igå!xäreåé•¤!TøT&« w}p§€»pVre] ĞÌ•U¦‡]ÓÃ°€C8«uÎHqs¦8«ŞÂ
+gU¡ÎŞÁÎ~ñ¡İÏõÂsuh©ÒkgTª4@Ê*‚™,Jg)ojFN>ğ‘Å& ííœÁ@-XÔ4Ğ¦•—ºyè¶P·‹ïIÊ+<É &m <½”r…3éy K:‹/`Œ…ÅÑ ”lËÀ Êªø”kf|N­Æ ™©ÔôğŒšfwí Œj‚álAh“’ÍP¤Ô…fhRêC3)@rRC3RšB3RRšC32RZB3rRZCYYğ¿8·æ¶B;ÌMJÌMJ'ÌMÊB˜›”E07)]07)İ07)=07)y˜›”Å!W½ÀŞL«v¥ÔÃi²À˜Å¥îpÖÊzƒY/ğ¨8°ÍõWˆÊTó®é5ƒ³pE8X¤46eı¥YlŒ
+È•,'Ä¥¯JC®¸ g0„²ôU±¸ê¤ä92}APRÍ|õL)6&!À ½:œÀ›#Õál81×‡³‘¿×øhš—ÁR “×qµùvLO·ñm ¤ƒ£v¢Y@D06`şh ‡?¡IVÒÜ2á]®úi«|éµ+"‘eˆ’j	º²ÃDd“½ƒŸ§\´ËşyÊGÛ2)¢Ud x¡5ß
+”¾\†‰òõ%•ç³tzd^Sé;Ô‡‰Â¸¼Ï€Jšo…µãa†VÀ
+aï*“ğ‚Š‚7Ã„ö,0{Å¨0"ÁÈ+ Ÿ Áì¼;³4,y¡°¾<øz MLxœ•œ¸\­|™Œ¬V¥@2‚@¢h`0âª³B Î?tXIî…»‘Õ[Æxq•®Æ¶ùeá	ïÆóÓ§Öe˜´Ëñ[XÇªïŠ’µ‚b­ÏDf|Ø R—X|Ü³üqõ¥­¯Ú¦&”¯:hm([œ†‰	§ ´W¶5‰d}Ğ´n‘½HK8‹>€„ˆÃÕ‡ˆ•Iıø°í‹õøD©Ôó 7–-¶;“‡±cÿF‚¿›Ï Ç"ÊM€²Q”Ìˆ¡>’ &ÿÊó £°AŸC=Ê–A‘&TkººZÁ-Ğ©9Dx1›†jKè8ÅPi…
+&•¶Ğ,<i‡Šğ¤ƒ´i€ÊJÒ†T:IRé"mHeiS•nÒ†TV“6¤ÒCÚJ/iS•>Ò†TúIR mHeiÓ•µ¤©¬#mHe´!•iS•õ¤©l mHe#iC*›BÙŠE2‘›lÔ6µÔ†~‚›j¸	ec‹­GÉĞzL¨‘ÖãB4İÊV.6 7BÓ­B4j¤é¶P6¾Øt;¹šîj¤éN¡Fšî
+³²-Yº¸ç±a¢úğı»¼æğ„W “Ï!L!œê$şS²Ñ¦h<‰0Caf‚Ä4¢67]Æ°\.éE‰&d2i/’JÕÒf{²âònğæ%òÌİ—:e’êI3||©£Xa	êéXE!e4h©”÷û™x¥÷h(Şã×W6Rù—p¡°›s'àzßRê
+5Œ·ûÁÊ27ÃT3¶`<\ÔRå¯òÛ”VÕæ§ßlò;8Îá7™ıÎ‚ÜÓô3³}tËìKÌ*£×YàiÌTÅ»jJ½Å¦ñkÜå%¾pÂ­áŒœqÎj
+89Î€Â ÌØ‡÷Å™9Íÿ6÷(Òå¾¾‰.©%OúAl¬¸¹ØCqAº²*Va2$¼ÇÇ)¤2…B&U@( ê„*è»óàWaÔÇ´ˆÄ7‘azpÄ€¼E÷#š6Ò@^CBI
+C²ôˆP¡Ã ƒ!Ô&¶ ˆ9 ”Ğq¾œ^Ò¹ä +—2%zwØf»õPZmP²[ç~ê¬¨èQkØ£×{àmÈ­Ó¹C Õü<º@¢xy4Bê{ÉÓH?z’r£ZA1@ƒ<'i\À†¥ğA€…Y¨ÃÃUâCÔO‘ °-“äT*ŒU&•IW€•Xé•ØƒBy^Aüv½8l@£¢˜518#ÇR©&­UR,+éUÈ(‰D›&óªÉ|x+‘n¿¤ÃU›f’N„UñJ˜(„ƒ±‡ãyNïæõnÎÄ4¬cBÏÓ	ÏëI=Óó‰ªªXLO>è˜–[JÇ¤¤MêR/´ ¾Ş±Úæ–Ô«Nvvw¶[$²g«¾®fyß‘F6è\İñzG·ÃÍ6~QÍûv'ÎÙ­ÙÜ/¾•xß››ºğªÜ“ÅEø^W Ww8íxĞéÎmÇw;sO®tÚr¯Â‹c¸š„êhÿ¼ƒ>Çj …Fˆd“É†Ÿnö«iD×ÂÅ :eŞZ€°p“ €&ˆ†Yœ¥¢šc~®ĞÇêƒ¬Ïç'™õÀRÀP€´Ôd2¥üt!MØdW’ÛFHc_ÚòÙŸÂ¢Sûk{«mµ{×'ÂëOnĞnÑLG2N£r—­Yêöoª‰ĞNàngyÚg‰wÇ¬¹Nk¸7ÇÚÃF²§±N«uóR¼M[Ò¼eUbÇÚjöµo+“Ñ*­ÑáäâJVŒu4_»¡FòJé)/¶+s3LQYe.*ãíJ\Ã:CUŒ£ÔüoÙkÙHü¨âûz¢3[åâ!–†ĞE)+Ù ”ÀırQ
+¥R¦_†ÆÈ4Û;³ÅĞ<ø·šËdj±»€b”c
+Ë©É«öBWë”ÁÎ¬óÄ¢q^Šãy©–½‰b4½cÔß{Ï®Ä„Q©³Ñ¾uM»V‡Ã«w55íê	ßjÖ¹İµA‹%Xëv×­ôN±IO8ÜCš¬ÜjÕ’&V+iR²Îvè"ÎNúm.ìYÅX{f"‘ÌÑŞş›HySr°Új­L6®«²XªÖÍíì=F^ëí¿1SV–¹±¿)“°Z™¦&±Á›EF…""ïıóï³{Øƒ¨µ¢ÃImŒ"55ú\fj W<@Í!ÉÍ+IÓ´:-Å,›¯é¾¼Zh´Hæ¤©¾…ÖúÖÒ ïvÚµjT‹keÚ &</•øüZ¤¢ÉÄK ù$)é÷ûE„Âç#]Q•À	¡8uzõC	zWM"+¬h‰TôT¥;ñ}ş°ŒöîÀ­+péçœ¼ñÌ¦?|bõ}‡:Êúö¦jâcwî™Iç6mßíc–÷í¨5Ñ½µ*ä,J¬¦wäv¤Nµ¦¾?”û¡ÆxÇàÖÊ±;×§Oô9:oïl½aSü#Ùê¾¯ê¾›WxÄŒİİô!ı©@åÄÊ/(g•`i(œ×Ì:
+z™<@ıHTÊ$=¨@ŠbšXAèqG8ÚVdsÒ»5÷‹»Šxë.l!såŞ£Tì[ÈŒ$Ÿç¤8 \«3›$Ri^y˜M&©„ÂeÛÆ
+´İí[šœÎ¦-íİÚ‚‚ñmÔæoç®Ï:İòè·ß~÷Àw~ôÃ=e
+·3›»^Àc"÷ş>ûCd‡±õr2v%å÷ù`Qy%äP°B:Ü¸m\FKT²¥	d*	-#S¼gµ&ŠNığGï8ğîÛoï‰2jÎ¤Íâã"½Ş¢“´›}EÑÊ¤>\(v9\Z.c4Xğ‘l„x™z¡‡ñ8DxmÕEnÉ$‰‰¢¨ÅL;Å+«À9R¢O@C …ÙÇÀ=D¡½j–J~“Ñˆÿ••*¬ãÜœ‹<ø¸ÇX°•Ü•>Êqğ÷Xéãœ]©¡“_Ò¹µ½|xå°BIÑÆÑ•#†"wÉ—¿dpXä©š¢”Š‘•#
+£ÆÍpŒ 'è×@ë+Q(Y"Á,¢ØU`ÀdàKõÂ3ªPP"%G~¤`·ÑÍñœ;îæ¨f|2wètî:|‚™ÈÏáãDŞûB?GdN´7-øFj –µ˜*&–9'€s¼2ÑH'€»nç
+ƒ¶Âp¡ÖZÖ*Tkä…E6‰2ÖtÈ(Ô™¼1gphã:¯CU Ò(Š#Õ®fa¾Nügª„ºô+Ì·l)H‚¹…+ gLwâŸä<Ôw‰¾Ì‰ùßá#è‚/sc8Šlœ(Èˆš^Ê|½?Ì–v±§Lôõ0ÚA47nö_Ï,j×Xì!M•s%uÂš^iğ¸ÙÇ’Hğaâó€S.ØÂ¤}AïÒ ‘g=Ïèÿ®§ßjÿØ“££Ÿ;ÒŞ~äs££O~¬ı™hïöÚÚm½Ñhï¶ÚÚí½QêÌSsõö>6÷ÔSs÷ö>>÷Ôİß¼¡ªê†oŞe<~Ã7šÍ€Ãpõ!-r'åŒ àR	İ‡%ÊqÖ 
+ÜìÊÑ†~ãbF÷<æèŸZÂò8>zòÃ¹UÇèƒşÒ¯ÔêÜÿÑúc"}7Â(ÏÎ4²‘DcF„Ê“‘0Æ´
+Ì!•p®C@`<`8JM5SØËœ—Så¬-(µè÷²8Öf2Ö¸¡ÉÆ&Ì°JL¶=(šNA|ASÖ•µ¾!½@h#†qñp(Xêqt8M¥¥có ç¯YŒÍ“±·ü
+!_’7(Å.D/Œ*-‚h0!¸‚BÿM Û]¬‡ôßDúO s€çB„Ã!Šf8€£Y<^ˆÀÀ!$ÄP0&ÃPı0°‘jÖx_€ç¥î ğÌÆù÷é¯ƒŞv¢rÔù™ÅøÌBb81ÄĞZÀÑ¯(Dm_|¿ô*s1à-xYbĞ4¢Og\d5°[Ä3Ày‹çy?§uªƒ“õ]ÓÛVøôØØCS=8¥.w=0÷]Oj¸±a¼Íïk©kkñÒ£F¿ŞéªÚvÿØæÇ®kI_ÿìÎ¯]‹¿§³Ì6§vu‡Âİ;ššwvÊVOºİ_é6Jè¶\X"„hhZØªk=«Ã:>ÀrH£> Ë?€P^njN®°È(–
+<´ÅõÏ{URFd¯x¥Û…QSCe[¼-XâŠ¹cœá"¹6Èæ‰ šq‘4Dù—ÑƒÈ ş²{J:òğ¾äÑë&¶Öl=38xfkÍäÄõG“û©ßœò”´lªŒoj)ñ¤67Ô¯©´8ı	øsX*×h[?±şÄSÅG¦ºUWïšz$PüÔ‰õŸØš¸Í×¼¹¦m<YX˜o«ÙÜì£î)iÎ”Eš¼Ş¦hY¦¹„Ğğf È« D‡A¨8	’Hz{A"„c‹|`È3°Ï
+øØ"‘ï=x;}JãN 0+SòÑ° ùœ9’V :…iˆà—éÅ@ÀË¡ÿ] ëúÕêA­¨MK 7ŸtıO“}>jÃ2;	{6/#„y ›Ğ»t;S
+À¾ƒÉõ˜¬afMÄ$n¢şCkÈø*Êıøi½vÎH=o9R`U¼¥W)?syß"èÛ!ü8ı ½f•í&ì1Rtæ
+ËÀqD»Û@,Ûİ4ûä¢JoÁß8M˜˜´ “†À„Á'¼Ä‚{Yâ˜~hÎäÁO{+*|¹5úêWÔ–ÜGÜºê•*ı–‚#¹`öëAGÔÏ’¨#ñ€l¹<]Bx	¾*Ã°ıÀÅF¶9àãCb‰ñª‰‘	¯’¹¾°cíxíª›7W…R«[Êİ!5S
+µˆ«¦+X×_[¬²h>vy
+€ùµ£Âgõío_¹½§®2æ:w>˜ªI¤×Ô•¦Ê¬ŞaúèW&(ôÚ¼U2ÂºQ7Bk“ıFtÖĞ-¯·ô…ä4%ß !Å
+j1üa%ë Mi?Ä<*¦¹g5FƒkWõµ6×VG#¾b‡MÏIYÔ»UÚ ¼ÎEo›ÈÚLK.ÕT¢uï\(	Ã{Š}ù¦"Q¼Ğ4¡÷å=yæ•›5Õ7wÖ¬­q€@î:Ù»b4´^…‘5M¾5w}óÚß}bxë…ßMŸ}·×à”Z·æşôø¹w¾{8>|òñ—'OüñK×ÔMŞ38Ñ‚âpÛ¡uåMŸoï\•´T'¦&7¤ıCîÑ•úª±[¿z<=úÌon{ôÏŸYÓT®Rp+š{¶{ßöÕÏİ6X÷ø÷O^¸©ãZ}´¯;äõcGS-`À×@Ìı #ÕÈ„Š“n=fhAª‰t¯©V-d/8×»@¹»‰ƒN»…a7í#”“2÷ßaqÊ¦æ~¶Gâ6ßóÅÜ+ø•9üYt¸>÷OœõÌş3ÅY’^104:sS0·4m)jHÖª0-è)^2³ä,€he%Xj#XùÒ€Çe,2ZLĞYï–cœ{Á×µ*®¤°|>ŞËWøÓøÌşÏì¨pÖÖßz[íÔ§·f¡[ÆšœGçæŞL§ÜGN¼ÍzÊ2G{¢ë»õö{®˜«¢ÖæjùÆu±-×s×öUìÛ!ê“ôüŒtcˆØ=&Ù&ğsS$Æq¬Ë vbÁü‚nÌÛ°–ù½N»ÅÄiC8$%¡Ù¼ñÌç@–;g‰*úEª½í;g}ûìê{ß<vôÛë%:W’íX{çÖšúÉ;z+V§ëœX§êšùÓ]wıéÂèúUrUq°¸õøW_÷ò-­g¸H#È×m°OÀ:¨u¹ï¨Zôaùİ÷¢ïèh-¸nÈÌëüñ‰\-şç?~pİKµ;ïÊ½µC÷î¬¥Îœûàé!Ö³ù©ßŸ=ô¥[Zf™–›I|pà0§E’ArF2Éã²½$6¦fzrj¦ù²AÔ¤œ[êæè3sÏãïçJ¨•x±s¹Ş;sÍç`TŒ¦aü½P“[µl|¦—Å‚Ÿ%8ŸÂñ9Y¢_™çè½sßÆ?ÎñÏ“1kÎÍ}‹´ ½ëı0¬wU%c:ÌRXó(øo „XXr–ÙpU¿[ÏB¨Xïòå¢Ébô/j¤+±óğğ[GïûÓ3C>û»»ºnÜ½)SÌæD×dÛäg&ÓG²»n°Ì„§¶µ’%¾ûO3£æ`£¯Ï Ğ¨½nKû‰¯\{ıW?Şæç±Ë İ
+†RŒ›€Sİ]Ig^Î3,¾DĞ‰Ñhİ†1@²¸3õüÜôóÏS×>OÌ=Åzæ§:„ñ>›`<:Õ,øTBH#Äğ¦‹…ó=yæ? @	€¦©“,\^Á,}â_‚ğÃbM
+ïL¼Ê<§wû—âŸŸ$KHşèçb”-4xÓW)ÅÒ”^¯.ñ¬ºˆ¿¾û™ÃI¥ÚQeÓ´ç£78n XñÂAçK	ì&|‹	
+œóú¼. &K#ú¯ÄW’3Øú„WT:}Ü¯ó;ÈM¹øˆ?xŞ]¤É=Zàõ¦/^¤ŞÓğšõs¯uås§%ƒ»'D"|ZUY’F”÷IqŸèÀÀ:Ğº —0e'ñGs«/ŞwŸØè.‰
+¾-à`¡)ÁÜS„Ññ$‰xTiZT—ncWBœrˆı«òX ØÄ!îñc“‘`ÚÓiµQ¡0ªğwTË‰‡i*4mAsÎ%9ÂbWãïáŸš£V[ÔD{òBÅPn}µ¤„NTgW°¹iöG Â9 ïİÂ:N@K‘¤f·¹  Ñ“ùÀ¿îˆi¡ø½Ù¢¥ş…¢Ïo4:5sUu~3ëQfK,eú“şD££ß4—êg‡at
+µÏ !ÏÿJÌË2ëúéÉ¿s~pğü;?ùÓ‡Ö½X·ë“ÃÃŸÜ]W·›”»ê@“ıñÂØØ…?;û§Ï}şOg}åx[Ûñ¯‚²´ª KÏÂzş Ó€.-%I_‹n)Ã,(UA>²š!:Ğ µ›“pALrş•Ñ^á‹øğ¡™ı5Ÿİ÷Õ¯¶îìğúÄWñ¯r&ÖS»ıMïİÓp:Ğ>^ÿ±ÛH^3÷>{3ĞÃŠÂ(˜€W„‰9	4½`ƒò€€"´)&¬a Ä„#-ù›4Ò^»Üã®4½³ë¦¿Cªgr¿YŸ»Ş`ÆLäoQL Sô²‚w_‘,Óä= 	Hå²@kQ9AğàvØ µ%ìæ¤ºKèF²[˜p4Hf„n‚“‡½¦ªdÕTW¨Á#”ÙrßĞòüuO¶ïZéÍıÛÊ3÷ÖÛüñ–CÃ-:¥]?÷g/~Ó¤?î…é?D½™ ÿzĞ¶ø)õ³Nğ”(B\ (+ Ÿ P¿Ú°<æ®­ö{=.»•w“…^nÑ%Æ¼*ËoäıMÉ‚ı§Z›¶ÜiĞÅú·ïŞŞ«ŞñÀøáo¶Å¥F¾¬u¬¥v}“;ÿªrìÌĞ¶g“L¿£È[T”è(M´Ç|Øª©Şu÷L%7­^«T—”—x×Åëºb¼¯¼çÚÁ–›·4´¦?â½ë %vAÈÏô2‚U5Ğ@Š¤`X`'I†~=wãó¹c¬çŞ®e¦ïÍÛ—ù÷Ù·’¸ŒÎkSŒ<-02è5*©Y±•·› :`A:IŞ3«¬_l?ş20Ê‰ö‹áµGN'ÆNöÑ…³?ÛûÊ©ŞŞS¯ì…ú¿õİ:– s‚icn9uÈ–4Ë„Èã¼ÛHtNÈZT/¨¸eJó’³–B)nQ™å2PzÍ—ùlNÿ(ë±èf·uEô½œíÃŸ9T@ ÌQBèSl’ÒÄjP¢nËoX¸Pñ…™ôK-Í«çÅ¢ËŒyÕ}f7;¯QI42ìe=æ¸¥H‚½2D¢’æXŞ|gîšÇr_cå,#gs¯ dfıìh²¨ÆJßÊÙÈ%QXXm¦§	˜ô{kifˆœeCà›z9“6¢–ˆ’×ÄOÀM#à[ ‰hÚ 6Á½¿'wËs»¥r¬é5ÏänÂÓÏL²Ü÷Yiî=™‰ûõuL£Ì!NªÖÎMÏ˜T”E«Èaµ‰gyéŸ>>Dù*üLè¶¤Cå‹t[¢Õ}17yŞìT¼ËÙ
++÷SY¡ùJ=÷{JI›Íú[”°Û…xVkx¯æ:%è^ˆdÈvÌ‹áx5Hcä¤l«œv>¥Ÿ»Ú5û¼BFMÌ}õ¤]Ş?×¦µ©İ92şùÜ/)	û*@íO#!‚ÁãÕºza6ŠnĞRƒëSèÁ¡4 %‰}5Ïã	›éÓŸ6Ùr¿”ü´Ù`ÿPj74“=şùÏÒFö¸¢‚…ğÌfŞEöø…õ!ËÂuº¢jêcíÎ„†=å.úpƒ;¿ÿ²;÷Kü¦ ÉDä=p° AÂ- ˜‰àÂ1ÁîÆwã‰ÜıvÓ#˜ìì«qLì_ì$½º¨‡è,»q¨ì9)ñ*¶t09O½ƒä)ğÖB60ÖHæ\šhIÏ‰tög‘¾mÓÈtª7¤Ã	|ğê!?˜ÃÖÜz•ğJî7ôìü(ğXóå{E½¢!7GstA…E£gg™O8@ŞœdÆ({ègMšúÕÀ 9–“í ¢YØ[Â—K}ç¸Á¦ù{Ğhú¥Jû@b`ş}zıo ß5èÖ¤ÒÚ½Œ¡$Ò…ıÀ ˜#ŠfÀ-¥TBIIÆKPõæ´„õc•?úëMeÄŠ	³¦I[°£òhiM°¦ØCBB½N!C%¸D¡º	Àzqpñ¨
+<ÎgX9!ó×ĞÄLÓr›ƒ5ù:z6&jÆ:ƒM§Ş{|dSãšÆ°Yg“¹z_ÚÛwlm8×Z™ªsxtkÄZZ[`İÀ'|ú¢#©Úq¦sï>—Ï¥ÓTw¯ŠìŸ»s§Î]^ø/¬3º"àKğ ulá¯€_M`³·'åv›fX†pÙ¹v
+&)ÎûfõRıpQ‰ {¦—½—;«B+ÑHd’z‹¡"§™·ğ0‹1Às2„ø1nyZÙç—Jxì‘H9“TúNgëï_sr8V»óşáá+Œ7ô^‹ìN}üô1öÔÜÛúS7ÌL|å¶®ë¼ôÚ®Ö\ )öÊË xÕÒïB<_“¬
+)·aêOR”‹6ŞLÌËÂ6oÀÇxâá+CöÄõKk(Øu,Ój´®hKEjKš÷6××®¬pëª˜«{ıHÅÚ»÷4Õîùôöñ»kiRiqZb›O®¼u¨¼°¸Kúk¼ºæ_:´ë‹':Óõ°+îGa=ÌÈ‡¦’*D¦;kB-.	Mk)lˆ+YàX÷eï%›..‘À¦&«#W¡Ågõ™Œº™™±Y–gÑKÓ°N^Ë‚æöªé:½…Ò5~j²ÿãÃ•5;?9šùXy6·ªÿúxÙîôñÓîÆõœş@çÆ{éº/ì®KPÎ÷]Õ‚ß‚µùÂæ“ëJßºğœõñ¢jO¶˜In3…ÀÁ²L‚€i	Ş Ã$k*]²@~F¥%¾ˆ?â´tZµ\Š¼Ø+·á‰vÒâb™–¯–ØË~0e¼{w£Î2·—ŠôNµ$‡ÒNY ©pg&vÅ':ÒÚtğÉİ×ß©£Œä&úİÚ©G¶•Ø7Şº>ì,vÊeâ’ÿêÑ‰™›W;}¤n¬- ú\Ô{*D‰d%ÌD×±0ÜÒ¡X§^r˜I›&i5KX!*äŒ^¯Ij ‘ğ“$qì’„p‘„ŒŸ3Ú>8ÔYTgg©·4µainnRS&Cû¦›3e
+ù ™5U®i<6û2Ñ¯ÉÜyú<ı3”@(ƒîIÈ°Tå(JÚD"k:¿9R`)X>)64b%4K2÷ZrÈõËEÚK$í­ä|J`+CX6ye·«öÈ$«º0êïíÊ¬Ê´·6Öón‹¹@ÃĞ(JQ›ƒe•JÅTŸÇ/œ‰,ßn";-û-¸2ÂˆMÄƒ,‚²Èó&~½a{£ÀdQ|èÆUÉ*§£jpêÀÔ`Uı5ŸŞºõş‰Š5%Ñúú–Õñ¡›ğnor`h$\ŞXØ4šNM´çŞÙ<f-ï æ°­à%ÚdWûş¾°V4òFn(_ÓÜtíÆDiûP¬}Ü©O%J‡ŠJNdÚ÷÷‡>ú%²*%ŒÔÖsW—Xlá&ªnçºÌ¶m™`[¥“Ø¶;…=ÎSÊ†“¥P¢´¬XÚ”3§eNx¼‘'É¬eÊ’Dû[)wg¶á®ÑÃ}%ÙÑ-Çª@!~5Õ¹µîµg×uíMsåd¿f7L¼…½‘ì›í&»-ÛWg”úÉ5,sÑ¤É	BíâšQ¯”C¸ÉèX{p~~ş¹‡ñ!qaÇf»8†ñ/$ÊS`a+˜¦…õÖ¤!F¦´é…½+ÎËÛ­Ø€U>‰ƒä¦…(šk.ÉÙÉĞ¤şË'nòBâxİÂ™‚eéI>J\Jààh@oVcFSh>Ÿû–ÆQÀÙ5¸íSF—:÷5V{8Ëšı‡;t¹£Z«BYÄåZ>cPçÂ &1,NC&ùJ<¢•V<Á¿MÃPî…†bö]ĞeA´öùR„¦ûI<“DĞÎBl¡MË¤ tâa#õ ÑÊdóÒËŒp64ˆ‚°úzŸß-7 ª¬Qğ…ÏFĞ,g‰³“3¥u4´ö„·µ[†+Î?›	u×ñÙ‘¡äT„~ƒÓ»%¦İ›ªº*Ì/_ Ì²÷€³nm©Ø›®›,äéç'êºh–¬*¢¤2XĞcÜjOš|®äãŒpnÈ‚,¼ÑëY™`r7ß¾¬Š¶é	àèÒìØ–Î›ª¬“­k–Xº­i.ºh;~°‘\Q(Y²x2À,0ß‚™30¸¿Ñ¯”#=ÖKìÃRöèŠİYç§­Xqè©;>¼bÅá§w´moãyøhßAÊô»m7¿¸oÿ‹7·A¹”³÷—\·îäPE…X–‹g8îÈ]¤>(±ã»’*‡$cÂ”`ÇÉBgŞp„\t˜Š£ó®•ö
+×kyp­¬`vD;™ADd$NYNâ¼wÅ-÷­"Ô„Ü\ãùÉ“Ã•µ» FÓ}G*#{šOœq7mÈ]dœ~/±ã/‚¿µ»¾*×ÇœÏ»XÄŒD<WŸ<M`Éo1SéÁi±ÛhÁi±·ôÂm&ü’i^æ›Qã'† ¨½ÌË¹¤Í’_éµx—üJ"›—:0‰ª¾ÔùL¶áqñŒn¾9¦–úsÏõß_“p§ßøğ=üVûš&İĞY<û4ñ`ây“ısêÀÛ‚nïÌ†%¥
+„$V’Ttş.³Îä%Û!v±¯(=ôóš_“Íhš|wòrùdåË]|¹|–ğ¶”»y‹ÃL©Â·l*ª2ih«&VnI”êè7L¶Ó#SjíMV¥=ŞU>w7‘ıÖù÷©|-ËQÌ_Í™ÿwòcÔgT-_øC–@jÍàšT ’¹yÍÈC‰™‰ÓÇÚ«"é©$µ&³&U¸¡gÃ¹J:j2YM&_Ìé«(vjûëš÷DSñ”ZcwÛmÁZW îuù›j¶vGê«„½‹÷©iV–¬#Ù*Ç˜.Â¬ÄEÚ¤9ˆ#a'…ì=1Št/Ês"ŠGC0#;®@«†˜Ôƒ=2r(Ä7|Ä|‡°ûd0-º¡%>|ÍuSZãı%”±`=Vç~ŸÙ¼6½L®d+Ã×io:Lô­Öêr3Çæ^¨¯×è42ù@i„¬ÉˆiŸ ßô±Vš?—)ècPµyÛMõçóAäà|ş)Ü“WKß Èó‹×­çÉ>™ #ˆ‡˜»_pş9|c"»]g¡
+š>)¨eú¹3»·5Rÿ:YTÍÔ1o¡'6àòv¢O@-ó)Bn²ûáæ¯Ì>”;wÆà`ÿU­“Iõš7%vî6`KÍÜ)>åq§yj¯ÖãÁÆ~š~…IÎÎg–-åì´9»Rw°~YÎni…Û…œÇŸßè¦%<o¼Íà`UhX™Aù
+kÓu¬ì—•:™ÒğyÖ¦¿%÷­Û­ŠoÉ”,«}Gé8 içN{V¸\+xj¿V¯×ÎİîI¹V¤©©ÃlÄM5‡Íæˆyn·[ ˆ6=tq<ˆQK¼1y§]JŞ•,%ïô‹™Å|?ŸwiËıø	ƒ^ö#—=)7hÎı—Ö`•}[¦xIfÖ?ˆÿˆ¤QåT•¸RSç0øA{Í¹ç4&‡ôô€Ã„ìI‹†¥.Y ¤î<$ß#|[áŠEÂ÷Éì¶›ŸÈMßk¶HŞ“iY‰Vöc‰ƒ»=÷Á„o¡ï…åzÀXj4Ô¨VÈÖ;şæÓæwsäh)}Ç9ƒ°›#Y¹sS¿Q+råøûsCj%şN.FİMŸÔóš¹–[;Ôêoùmeî—Tû*J¢X2Z,ú ‰é$ûîÀÄ°,³:<†aÛª«bÑXÓÛëÁíˆ‹¦PĞ?1!³'ÚaûA<#lá²}å[éd2­Õk½{*J}çMÆä«**ªò™ º¦S¯tTöì@#|_ãªm«Ê7W¤§zÃİn¤¿j|xS´¸)ÆËå|¬±8:4<^Õ7ÂºÃ½SéŠá¡Í€ÉÙÜ³”p£¾'D(Æaqƒ¤â³·ŞÊ¾úçL÷j:Ä“NLR7äôC‹ß ÂäT$ù¶-Ónjl¨//•ÄJˆÎcÌóB&q‰&	ñ¶°uEÔÚ‚7AhbôHğZ6Ğshüq—+î_F†C=h”J&Sø¾èr*ô†¢Å"šŠ£›€
+ıË©PŞ ¤#Ğ6â;é/S?Gv’ÇA œ·#†bvH0‘¤Õˆ…‚%aƒ¸-¨6ÅM:N«VÈ Â´c»p£*Ë»}ÄÛäó›bÔ“M-øTqz´)6º¡_~Cõö6¯ØÕty]PÙÙ,ò¡|<ÿ#½Àb¶e¸¹\x¾“9ÇØ“ —}·KƒšÅdÍ.Û±Äc>lµ†Üƒ;dµ†y«´†É9\å1<aa¥@w<"œQ(OFB`‹”ã$,FÅƒ¾@¢8Ê.¹ºR+¹	‹ÖH/8¼äÀ‚¿‘¦$ı§&ë‚ÃñÜ³¾U<~Øîš}LÃá{*ûk]|}_´¬§1¤ùùuªİw²åÄÍí8²wW"÷°RUdÛRÃùğ£ñÑ±‰rBÊk+õYÍ†Û†¢Bî|õ§‡9Ûì¨ ßÁü_8‹QUe(XZâ.Òs(…SÒe8åO‘¯‘3\b¶GÀ+~%~–şéñDQm_ìÈÇš<08qz"ejwÆU*¾~cKj4å¶µïÛÛîr×õF£«ƒJ@vPİ¾ŞĞÕ4º2VàyèĞ†3U±7¬,R)¬¶¶ápë`ie¦©ø0æë*ªû«í—âN¡áL
+ÀzA´­ÿ;g„„Ó	âÏ	¹8£+A+ÒÍ_Öëî;;÷Mƒá¨İ•äâøŸğÛ›µÆÜxĞÈĞ½¹ïDkæ
+¼Ø4?ÁzP„œ,&Å¡ E³æÿîÉbÔD´3ï¦/= 4_æÀÁ#©_ï¦‡ÂñÜ¾šŠLéøı“ñ¶#Ÿ­™Ü¸ª0¦³ëÂÉµõ©í+|ËdËÈ®ÉIjœy‹äR*¶ŸY³í³‡’f_…£Íâà¡kZF[}Å.j«¨çKAÈ) îª§}ÛÅñ~†
+Ç?Å­®ª„›h,úœF:÷{Uˆ¿2Y
+ç¶sÖ³ÒU¢ùèEÏ$Ê<–‚½b3s<<Z„ÊÉ	#úï†FW‘¯h,—jQÜcJÁ¤nÔ»µÑÃÍí7Õ6]óàĞ¦{vÖ}ÕÜ7Uaçı”Õ›Ş˜¨İœöŞ²¯i$ÅSJ[Äì+©¾}ÃÚ{¦’Ğ¡fËèp,ãLô'ÆZ½ş–‘š#'KÛ6-ä+ÀÎ.æ+´-_A¿1!ÿ^ùœ¨êÉŞš\°ôåYøÔ#}•—P–[ğÜ)ñ€pµìètÅí
+,ÕZõ])úş½n¢3$WÉåníf¬‚®Ä¶óÇŞÿı6këÿ/²ËµùÏ‡¯[OÊwø{ºgMs¿•—ÉÈ>—Qy½
+ıÈÿ»AHq~Öôg»¼ì­K~v0òäùßâoÃ}}—£ô,
+Áóıì(Å€8ëkènj—pMÀ»·àŠàyt;µuR,:A›çÿ íãpÍÀµ®ÍpñpmÊßÂÕ×ÍT1º®»`ŒMpÁõıº^êG¯1#³fšQšù5ºş:C?¦YZÅÌÂ|úuò0t½	MK¾>Ã–¢sljg<è,;
+Ê|…>	úçxİÎL#‰´©?RÂ3DUSûÑy€ù·Pî†ù»à"ÿiê$ıĞ S‰NÓ£¨Ê•ôG€ß5ÈB%áşNü=´ÿjşô§Ñ1¨Ÿ•Œ£³ğüv¦uByéCıº™v£Vê€³¡Dz £‘>ˆÌôC C	ª§n±ŸÅg¡Üs7²$ø:ÚIÿµÁÕøÕĞßGİôTÊT¡)2™ÖëQô5ô5ìÀkñ¯©ènúLˆYÏœbe'Ù›ØûÙ$”¤B2(9!y\ò†4%’¾'“È|²•²)Ù9ÙrŸüM…N±Wñ=e2©Ü®|Mù•BÕ­:§Êªrê
+õê5Í¤æšYm•vRûrSP[°½àî‚‹ïp6®ŠäşS·^wQ_ªÿ„şG†G?1"cÀx­ñ´ñCS»é~³Æ<mş³eÒòŠUgMY?eı™Íf[i{Áöº½Ñ~Âş	û?8
+8~àltN9_wş¢Ğ!påô{Ğî§¸·m"ÙVô;ÅpKÈ[-z‘ì‘3äkqòHêiàN¬SPÿB¾N£JôJ¾Î BôÇ|E6lÈ×%¨Gòu)šÀ]ùº¬ş…|]m~–¯+Ğ$µ0¯xh2_W-««±‡:Ÿ¯kPı
+J£= £½hÚŠ&Ñ~äBÂÇŠAm l2F ÅNh³Ú» ÿ½Pn‡wcBè ”“ğl/Ú÷a¤ı0ò>T‹Êàw«ĞwÚ‚­ƒ–»„§{àw+Œ¼M@m7´ÙÏÇ.™¯ä²ùû õVi§ğ´Æ#~S%ªƒ·‡¶.¨]Ú#|YŸËñ¹ôíZ¸#xl r-›á¿7ê6#pí‡ç#hZïÚì€g{ cWâ=Â»¡… ? ïG ïup×ŸÛ ß¸P$ÿİûí_‡yŸ0ş>ÛaVjz¾ µ]ğv'¼qÁÊíÇìvãFùAä†ƒÂoú-Á6~¦[à-á@¦Ö<¸ÀlÚí‡ì[¡Ş)ôÛ’‡š@q@ ÁÀ%pß¡wÀå‚€bJh»|ä®KFÁ“«óB$/W›w‰†×ÂµMX§QÃ] ±("…[Anz…ú~ ‹ë
+™Ù£ÚO	R Ø	%‘²­ğ~5ŒĞõ?ìE4…ğ3ù¿Wşt¾€^íœÁøTæ‹2P:c®,æ›³4?•5·¸\ÙÀğù7V‹ÿh4KñÍ”XRzA%|d.0yK_ó•LZ:#ÁÍ3Åødï`6yrpFB7ÏøÈİ"·¸9?/àùãYæVğJşc€áX
+endstream
+endobj
+12 0 obj
+<<
+/Filter [ /FlateDecode ]
+/Length 675
+>>
+stream
+xœ}ÕËjÛP…á¹BÃ–Rìã}KÁÒ¤z¡é8¶œbYÈö oß½¼Lr(¥{ÿB:è›íÉÍıí}¿=¶“ã~õĞÛÍ¶_İaW]ûØ=mû¦ÌÚõvu¼ÜÿW»åĞLòğÃËáØíîûÍ¾™ÏÛÉÏ|x8/í»ëóõáf9>oûùàô¼ß7“ïãº·ıÓ^y8Ãs·ëúc;m‹vİmòc_—Ã·å®k'ÿ>÷öÖ¯—¡kgçûBôj¿îÃrÕËş©kæÓé¢Çİ¢éúõ_ÏÊìŠg7«ßËñòî4¯Ev©zVµT­U[Õ^uT}Uõ§ª¯«ş\õMÕ·U©úî­Kå/•¿TşRùKå/•¿TşRùKå/•¿TşRùKå/•¿TşRùgôÏÎMlúsdÓŸ#›şÙôçÈ¦?G6ı9²éÏ‘MlúsdÓŸ#›şÙôçÈ¦?G6ı9š¹Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ğ/ğı¿Ò¯ğ+ı
+¿Ò¯ğ+ı
+¿Ò¯ğ+ı
+¿Ò¯ğ+ı
+¿Ò¯ğ+ı
+¿Ò¯ğ+ı
+¿Ò¯ğ+ı
+¿Ò¯ğ+ı
+¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Ñoğı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ı¿Óïğ;ıĞğıĞğıĞğıĞğıĞğıĞğıĞğıĞğı—qÙØX{¯‹huÇÜQçİx^<X9Û¾{]ŸÃ~À)üş #¤Š
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font 15 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1470
+>>
+stream
+Gau1/?$"^Z'Sc)P($B<Zh'oKPIr`*e[_(4,4)#j^]eN!,&qAFR8b;EF874H\0drL40Ta@GHB34@+MF-D_&$+D8I"[5"n+WPTF=k*TUt2[l8*fmc$mt%Z)?bHY4&nR\;Q'Yr'c;!0MGHUg<DY^U(l6nI"8NZGRW+]JjV;X?k=aj+r.8HAL6p0%BSu*oqrN%L9Fq5%irOBJ,sf=C=AC+T@uDA7$5M=I-3^u;=TV>af^(tI4RhXj3;+X)?pZXUX1XjD9XS52F[;71Oa2I26S@u0fO,8O"@@^fr'IHY_qcDl(SBlrlhi&l>T3O"YO.FR4=jnc7"ROAopt.U(Y`"[!E9C?H>5ZobENDpql-ES@O,#!\oe6-_R'C-<Meke'M6.^0Q2Ye'J(K$gk]DLnWdM_lL7c%8!(j(8M!rpdR*E:5e1>j?$I._5:nt.A%ue3*]WFEPk*#Qp$5j4:rP1.]Tb6!N6dC4'he+8dj<*37BcA5]XNC#SRMN'.+Vk_dnm4_%[d&A>)-iPGD\m<7uX>f6hY8VCaat:Rl>G.IsU>1+9A:"]_&_)X9ef.E#ec5+/WcEOR8G=i_Mf1g\f7(@3nU,&@l<Mo:LK`FY2`UecN*`+@Cu*9s?Z4KnKJ;_*#@?FMB_O*gtXi-8'JjC7`e%sZ;8Y[_[&#3]0fIP)ZNYSf*'!9"5kB82Ci)4OBKXEfoUb$B2#qR]:%l,mILeDLioC(Gnl:JOi%0b6i!,F9j,\b)CO`-3FJ<f`\?F;L?c(EJg&k[h9Xi6&(8ZSB@W$b%uRq6s2%n$qHJYfkSk\>('04nb4>%4I?aVCAo$N<,jkWi#Yt'TG*^9H9T\Vr$M&As$/775&`D)nG@"gY3"2c1,SEppe"lRf\T#PChsb.V)qT<2+2j0j`H#.%7jCm*GAoK0@PT+T>r@/6#>X)D>t.T!aD6TZNi"n.p9a:$aW0mTJe\1d+&SX#<I_JENDI;p;d5-?j]4eoEi)[O:j-d;1[e7-I11k3>3:%8F+fd[h>lAPjNO\1CVZ'taEU[)OVUT&/2L)kb0q3-mYRc_e2JhU#L'q$jp8Zm^:2[c/*0gu@!5&$m&1&I4p]IhC7#s#UejI>kE8d6f8cU4t5=-GK;q`7)L!L(,iB:c6.(]W)!7]6OL9kd6beoC?]YWJ8LJb+CC`q!0S)>I?=/ILKh"b)`g0OO*_PAKMACH26i%n&_#cf.upCf'bhNh]4M#s(CKhn2SU&G<^Td6D$:qU/X!K=<9d]_[m\j,DRcd3F(eRWm2u6oHc8KCBZI%OPeKY(kGc"VdQf#hpaZ#8@f&1Z:Eg%4daEQH^<sE2g#YgO1M6[.Z830*W]C`^[S6nhs>[mUjK,:HKaM_.ar&b9l0)+nHL.QG+lmJBT'T>iF"[`5*%q,VVd`4%J$i<l%ds*hoee"`Ri;.X%`epf5Y)31+7Ob]NqAUT^4_BlV%LOn)I]=ae7_8pc%ktg&K<jRu%~>
+endstream
+endobj
+15 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+16 0 obj
+<<
+/Contents 17 0 R
+/MediaBox [ 0 0 841.8898 595.2756 ]
+/Resources <<
+/Font 15 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1765
+>>
+stream
+Gau0EgN)%,&:O:Slr.\D,)Q@lON^B>S4hUYgbuDpH1D>:_@dkq<!'AFJ)B>sUa<jOW?e(f+nf<i?4I6V6bp\p;La`_JG0G=s%\)@=PO!u/Jf1(n7cn9h\g-jY%P#TZX*'*a.clWi''!X7\Y<.bC`5aHauIm'Z+VD*\9X7a$T^G>i0.$;20RJ.$noPV(<ZUUgR'jkdr8#^c.Ak;50Z?(O3\Do=3H8n6s:/obMGk?20nUhrX7E"Y:^&nQQag=8_@DoE'p^S%@O^cjG@W::iENbHig"]?ZZ/jiN$t`,^6plu*kS>3/mu(t<Hib0Bb,\kI-UN%FHJ[rsHr?r8>D_Mp%f-hpR^QSaj;T38TEps[>KDG%'p+u`Crf<%\oC;DSIln3\H8f5)YU^/A1Tlr$>V`_,M:eP.nT'%;H5t`V,PRn/k7'NGfj=oto=n&-+eu;Ii7WpDXYAG)6%e#+E(nh]ime!g2Cs/\,A-<ZP?'f>h$8+bKS'+?>GhPYr=4mIJJ2m8T(s%8ObfGUh16mIF,>Q9Yk6rm6A3PJ@fpEbm$if4%OkQ%[3#.W[_W*3G.JO4?kgfSe;a@&9V07_mc+\Ou:8JdRe>^_`$[!qM6XD"eW@YI_rtLN(Kh=\VE`d-)!/*Ymc&"K$NpC42`>G.>G!8qSP6l(*GR(WO-F;V^r!K"Ic4QV7!"dN+FQ+@na^g8`3go>^XA1)U&GHo#REcGZ677?AZQ.JO&HMSL`-$]_mTO_!9`Wuu'0oXQ"OKRm!H`c;JBlIH!&q9PboC5>#.r1+@+WL<loI(X?)M;=lc`%GTV:I'a5:[3cHHF<WL3`I2\SG(B*.;`9E:WT&V(tJ6V8a_VJ!.-(X6B8Inq&mpM]iEG+G)<Xu"h=s+PqEg/l)_+(plEgU"QH_qM^d".slTA"hATiMYoYA.Pg9ZXnJ"4i"blP.8e$DmuT0eDCLRCDoU^5,_]O5[i9S!D'D:+@"Wdl*V#^KpG5WNt"C$XTLRl3t<0ZoU67PZiZS?oNC,.>$K42]e3pkYZ"5IU8UL^Jb6hiLcWfAVZuC@*K]<-NVk8fIb4\3b\]1=Jb6hi#i?P[&1`ikGR"#UH_5C)1kuZ+RQ:jBSb06=oD%\1ph_^0CZ\jah+6q8q5Vof1cU1,?Q^pVWL5t`I$s$s[K9M-;#nZ6G8BctONlE$DMLo(JEJYcQ%6nmr)_\*cV![8&rAP)gn(^=3QbNiXb5@9$a,0Z<C4XQBTlKGMf'=`,%\l_"/iWkQeu[6C'TS.%6&+o7%m'#URD2e`qe&%W%XQcUmpG`DEb8gjYqFn><eML3PMP/26VJV_1.FMhtC@dTAjcJ5>[;#6f$c'd_TW8c]9qBB^uf(0Ee=aLoM:AH#ZrPI(`-K7Sntb.AY$b;d'mp[OAmX.de%M!]OSj9=^1XP"]!I\TUg).tLT],).?J<.-5]io68j!b,#LB:Y_laFm_3EKM$[6qEE/BE_YX9iQ!c$iV]c#VFs#L03\%LH@U`lZJYP=:Ylr*hK-AgF7GJ@+7c>j@eRm'%LuWEM.H2).AWj]8:i%fq%+"r*XB2Jds:.d\))de69SWcaVZ2opEf0:M4HLni0ca<`EUN=]M-j5.bSf196V2f>6&&%\7R(E[_ZnfA#VKcd`41EPbX7J*t2OJRsqHF6";Pmmit%CN2""O[im!&Kn5hl@nDnfS`+.CumLsG`JuR9"%Z%YU[(;<QsH3eoZ&(W7C5X.J^&,(fS))FV;eF)k0pk/%4kI@4igsT)QJnI]+UPm!lrk>%R~>
+endstream
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000127 00000 n 
+0000000176 00000 n 
+0000000431 00000 n 
+0000013942 00000 n 
+0000014049 00000 n 
+0000014156 00000 n 
+0000014268 00000 n 
+0000015372 00000 n 
+0000015623 00000 n 
+0000029335 00000 n 
+0000030087 00000 n 
+0000030289 00000 n 
+0000031852 00000 n 
+0000031894 00000 n 
+0000032096 00000 n 
+trailer
+<<
+/Size 18
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+33954
+%%EOF
